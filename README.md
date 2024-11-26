@@ -15,5 +15,5 @@ This project is an **AI-powered tool** that converts images into pencil sketch-s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Image-to-Sketch-Converter.git
+   git clone https://github.com/khan1903/Image-to-Sketch-Converter.git
    cd Image-to-Sketch-Converter
