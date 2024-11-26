@@ -1,0 +1,6 @@
+opencv-python
+numpy
+install streamlit
+install opencv-python
+install numpy
+install Pillow
